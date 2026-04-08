@@ -16,7 +16,7 @@ export default function Footer() {
         </p>
         <div className="pt-4 sm:pt-6">
           <a 
-            href="https://chatgpt.com"
+            href="https://google.com"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white px-10 sm:px-12 py-4 rounded-full font-bold text-lg hover:opacity-90 transition-all inline-flex items-center gap-2 mx-auto shadow-xl"

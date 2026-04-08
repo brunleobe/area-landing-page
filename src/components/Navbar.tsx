@@ -55,7 +55,7 @@ export default function Navbar() {
 
           {/* CTA – desktop */}
           <a
-            href="https://chatgpt.com"
+            href="https://google.com"
             target="_blank"
             rel="noopener noreferrer"
             id="cta-learn-more"
@@ -108,7 +108,7 @@ export default function Navbar() {
             ))}
             <li className="pt-4">
               <a
-                href="https://chatgpt.com"
+                href="https://google.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={closeMenu}

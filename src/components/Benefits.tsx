@@ -151,7 +151,7 @@ export default function Benefits() {
 
             {/* CTA */}
             <a
-              href="https://chatgpt.com"
+              href="https://google.com"
               target="_blank"
               rel="noopener noreferrer"
               id="benefits-discover-more"

@@ -34,7 +34,7 @@ export default function HowTo() {
             </h2>
           </div>
           <a 
-            href="https://chatgpt.com"
+            href="https://google.com"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-[#E2F1D1] text-stone-800 px-8 py-3 rounded-full font-semibold hover:bg-[#d4e6c0] transition-colors shadow-sm self-start sm:self-auto text-center"

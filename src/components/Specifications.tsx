@@ -40,7 +40,7 @@ export default function Specifications() {
           </p>
           <div className="pt-6">
             <a 
-              href="https://chatgpt.com"
+              href="https://google.com"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block bg-[#E2F1D1] text-stone-800 px-8 py-3 rounded-full font-semibold hover:bg-[#d4e6c0] transition-colors shadow-sm"
